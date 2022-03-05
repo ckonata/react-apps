@@ -4,5 +4,4 @@ import App from "./components/App";
 
 
 const rootNode = document.getElementById("root");
-
 ReactDOM.render(<App />, rootNode);
